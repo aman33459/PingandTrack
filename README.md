@@ -6,6 +6,11 @@ Detailed report can be found here - (https://drive.google.com/file/d/1Ro5Nrb1Cds
 
 
 # Screenshots
+![Screenshots](https://github.com/aman33459/PingandTrack/blob/master/pingandTrackimages/1.png)
+
+![Screenshots](https://github.com/aman33459/PingandTrack/blob/master/pingandTrackimages/3.png)
+
+![Screenshots](https://github.com/aman33459/PingandTrack/blob/master/pingandTrackimages/3.png)
 
 
 # Accuracy
